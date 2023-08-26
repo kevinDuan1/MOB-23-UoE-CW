@@ -1,2 +1,2 @@
-# MOB-22-UoE-CW
-Introduction to Mobile Robotics (2022-2023) Coursework
+# MOB-23-UoE-CW
+Introduction to Mobile Robotics (2023-2024) Coursework
